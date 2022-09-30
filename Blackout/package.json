@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
-  "productName": "my-app",
+  "name": "Blackout",
+  "productName": "Blackout",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Screen Blackout Application",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
