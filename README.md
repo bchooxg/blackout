@@ -4,8 +4,9 @@ An application to turn the entire display black with a minimalist timer
 
 ## Future Plans 
 
-#### Move from electron to taskbar application:
-#### Add timer function 
+#### - Convert to typescript
+#### - Move from electron to taskbar application:
+#### - Add timer function 
 
 
 ## Project Screen Shot(s)
