@@ -7,6 +7,7 @@ An application to turn the entire display black with a minimalist timer
 #### - Convert to typescript
 #### - Move from electron to taskbar application:
 #### - Add timer function 
+#### - Add link to github on application
 
 
 ## Project Screen Shot(s)
